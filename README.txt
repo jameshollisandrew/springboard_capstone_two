@@ -38,7 +38,7 @@ milestone_report_2
     - notebooks
 
 capstone_project_2
-    - milestone_report_2.pdf
-    - milestone_presentation_2.pdf
+    - capstone_project_2.pdf
+    - capstone_presentation_2.pdf
     - notebooks
     - references
